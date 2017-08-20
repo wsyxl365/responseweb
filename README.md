@@ -1,7 +1,7 @@
 多端适配的互联网金融响应式网页
 ====  
 
-![设计图展示](http://www.gosolo.top/img/pasted-image-small.png) 
+![](http://www.gosolo.top/img/pasted-image-small.png) 
 
 原理说明 
 -------  
@@ -9,7 +9,6 @@
 * 渐进增强 or 优雅降级的选择;<br/>
 * 先针对小屏幕 or 大屏幕进行设计; <br/>
 * 确定支持的浏览器 / 断点选取原则。<br/>
-
 安装 使用
 -------  
 Install:
