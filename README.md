@@ -3,6 +3,7 @@
 
 ![](http://www.gosolo.top/img/pasted-image-small.jpg) 
 ![](http://www.gosolo.top/img/pasted-image-small-2.jpg) 
+![](http://www.gosolo.top/img/pasted-image-small-3.jpg) 
 
 原理说明 
 -------  
@@ -14,12 +15,13 @@
 安装 使用
 ------------------
 Install:
-
+```
 npm install
+```
 
 Run:
-
+```
 gulp
-
+```
 
 
