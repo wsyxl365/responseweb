@@ -2,6 +2,7 @@
 ====  
 
 ![](http://www.gosolo.top/img/pasted-image-small.jpg) 
+![](http://www.gosolo.top/img/pasted-image-small-2.jpg) 
 
 原理说明 
 -------  
