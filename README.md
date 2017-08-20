@@ -1,7 +1,7 @@
 多端适配的互联网金融响应式网页
 ====  
 
-![](http://www.gosolo.top/img/pasted-image-small.png) 
+![](http://www.gosolo.top/img/pasted-image-small.jpg) 
 
 原理说明 
 -------  
